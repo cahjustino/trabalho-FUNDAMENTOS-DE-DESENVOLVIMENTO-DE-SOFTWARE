@@ -1,0 +1,64 @@
+/* Arquivo estilos.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color:  #ADD8E6;
+}
+
+img {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  text-align: center;
+  color: #00008B
+  ;
+}
+h2 {
+  text-align: center;
+  color: #9e2626;
+}
+
+table {
+ text-align: center;
+ background-color: #555;
+ font-family:'Courier New', Courier, monospace,
+ 
+}
+
+ul {
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  line-height:10%
+}
+
+div {
+  margin-top: 20px;
+}
+
+p {
+  margin: 0;
+  padding: 5px 0;
+  font-size: large;
+  text-align: justify;
+}
+
+a {
+    color: blue; 
+    text-decoration: none;  
+}
+a:hover {
+    color: red; 
+}
+button{
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
